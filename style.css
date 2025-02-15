@@ -1,0 +1,44 @@
+.rohit{
+    text-align: center;
+    background-color: rgb(239, 176, 54);
+
+}
+#color{
+    color: rgb(59, 103, 144);
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+}
+.movie{
+    text-align: center;
+        font-family: "Merriweather", serif;
+        font-weight: 900;
+        font-style: italic;
+      }
+      
+#second{
+    background-color: rgb(59, 103, 144);
+    
+}
+.last{
+   background-color: rgb(76, 123, 139);
+   font-style: italic;
+}
+.right{
+    font-style: italic;
+    background-color: rgb(76, 123, 139);
+    
+}
+#birthday{
+    background-color: rgb(35, 72, 106);
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+*{
+    background-color: rgb(61, 141, 122);
+}
