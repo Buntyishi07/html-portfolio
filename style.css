@@ -12,33 +12,44 @@
 
 }
 .movie{
-    text-align: center;
+    text-align: left;
         font-family: "Merriweather", serif;
         font-weight: 900;
         font-style: italic;
       }
       
 #second{
-    background-color: rgb(59, 103, 144);
+   margin-left: 81%;
     
 }
 .last{
-   background-color: rgb(76, 123, 139);
+   
    font-style: italic;
+   color: black;
+   display: inline-block;
+   
 }
 .right{
     font-style: italic;
-    background-color: rgb(76, 123, 139);
+    color: black;
+    display: inline-block;
+    text-align: right;
+    margin-left: 90%;
     
 }
 #birthday{
     background-color: rgb(35, 72, 106);
+    text-align: right;
 }
 .image{
     display: block;
-    margin-left: auto;
+    margin-left: 0px;
     margin-right: auto;
 }
 *{
     background-color: rgb(61, 141, 122);
+}
+.div{
+    background-color: antiquewhite;
+    
 }
